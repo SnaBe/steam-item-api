@@ -1,0 +1,22 @@
+{
+  "name": "tf2-item-api",
+  "version": "0.0.1",
+  "description": "A TF2 item price api.",
+  "main": "server.js",
+  "scripts": {
+    "test": "start node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "tf2",
+    "items",
+    "steam"
+  ],
+  "author": "SnaBe",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
+}
