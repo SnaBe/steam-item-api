@@ -1,7 +1,7 @@
 {
-  "name": "tf2-item-api",
+  "name": "steam-item-api",
   "version": "0.0.1",
-  "description": "A TF2 item price api.",
+  "description": "A Steam item price api.",
   "main": "server.js",
   "scripts": {
     "test": "start node server.js",
