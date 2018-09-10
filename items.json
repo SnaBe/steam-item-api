@@ -1,0 +1,12 @@
+{
+  "The Rocket Jumper": {
+    "buy": 0.11,
+    "sell": 0.11,
+    "maxStock": 5
+  },
+  "Mann Co. Supply Crate Key": {
+    "buy": 32.55,
+    "sell": 32.66,
+    "maxStock": 10
+  }
+}
